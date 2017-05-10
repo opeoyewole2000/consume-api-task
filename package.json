@@ -1,0 +1,16 @@
+{
+  "name": "consume-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "consumeAPI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opeoyewole2000/consume-api-task"
+  },
+  "author": "ope o\u0019ewole\u001byewole",
+  "license": "ISC",
+  
+}
